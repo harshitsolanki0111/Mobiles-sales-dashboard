@@ -2,7 +2,7 @@
 
 A comprehensive **Power BI Sales Dashboard** built for Motorola, providing real-time insights into sales performance, customer behavior, and transaction trends across major Indian cities.
 
-![Dashboard Preview]("C:\Users\Harshit\OneDrive\Pictures\Screenshots\Screenshot 2026-02-02 145420.png")
+![Dashboard Preview](https://github.com/harshitsolanki0111/Mobiles-sales-dashboard/blob/main/Screenshot%202026-02-02%20145420.png)
 
 ---
 
