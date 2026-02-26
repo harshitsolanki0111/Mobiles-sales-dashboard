@@ -2,7 +2,7 @@
 
 A comprehensive **Power BI Sales Dashboard** built for Motorola, providing real-time insights into sales performance, customer behavior, and transaction trends across major Indian cities.
 
-![Dashboard Preview](./assets/dashboard-preview.png)
+![Dashboard Preview]("C:\Users\Harshit\OneDrive\Pictures\Screenshots\Screenshot 2026-02-02 145420.png")
 
 ---
 
@@ -114,23 +114,11 @@ motorola-sales-dashboard/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](./docs/CONTRIBUTING.md) for guidelines.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
-
----
-
 ## 👤 Author
 
 **Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+📧 tharshitsolanki123@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/harshit0111) | [GitHub](https://github.com/harshitsolanki0111)
 
 ---
 
